@@ -1,0 +1,6 @@
+主要的流程均已经在hardhat网络中测试完成，包括uups升级和权限控制
+
+在sepolia测试网上部署了三个合约 metaNodeToken: 0x7bb025208A957a3f648e88a3d1Bc2F9D676aDd78 metaNodeStake：0xB241f65BacE6a194773311263900F4BF9b609f33 MyStakeToken: 0xCf649C22Fb7872e7b7be551f7a4f4685c5d2dAE6
+
+以下功能均能走通： 1 创建池 2 修改池 3 deposit 3 unstake 4 withdraw 5 claim
+
